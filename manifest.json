@@ -1,0 +1,29 @@
+{
+   "action": {
+      "default_popup": "popup/popup.html",
+      "default_title": "Z WORM - OFFICIAL"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": true,
+         "id": "1",
+         "path": "rules.json"
+      } ]
+   },
+   "default_locale": "en",
+   "description": "Enhancing Wormate.io GAME, with more Skins, Rooms, and an overall better experience of the game.",
+   "host_permissions": [ "*://wormate.io/*" ],
+   "icons": {
+      "512": "images/logo2.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4GfKcisohe7yAeO8yjLB5N6MKiSnvj+OoJYsxuhonMDx+u11UrswnNAcH8K6BqROeSeHM8nsb0L1kY4nfIPxrV3nN94ExJAwjRTzOp1nDVGBIqbkouGxRwHsUbb+mj2tv5SsqNl8AgXQ8+E8dvbMIiSxET34IUnSGtV3ctRwizQLim+XS4cRRQIdm+hfwbxe4fWHlx4viaDKy73UI6MLfIgmD3q7A+/Ohoc9eazYHh8A6byrfaOCRIYHUkOvMmwCLBSrqjp/YTHaw5y1GyqiMy8HuO1CwRnCvyN22NjnvljpCSWxIF3isXaPnNhMPC+ediWvjjQVRmKAdxJdoszMAQIDAQAB",
+   "manifest_version": 3,
+   "name": "Z Worm Extension",
+   "permissions": [ "declarativeNetRequest" ],
+   "short_name": "Z Worm",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.1"
+}

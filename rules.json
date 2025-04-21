@@ -1,0 +1,39 @@
+﻿[
+    {
+        "id": 1,
+        "priority": 1,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "url": "https://wormking.kesug.com/js/lite.js"
+            }
+        },
+        "condition": {
+            "urlFilter": "*://wormate.io/js/game.js*",
+            "resourceTypes": [
+                "script"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "priority": 2,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "url": "https://wormking.kesug.com/css/game.css"
+            }
+        },
+        "condition": {
+            "urlFilter": "*://wormate.io/css/style.css*",
+            "resourceTypes": [
+                "stylesheet",
+                "image",
+                "font",
+                "media",
+                "object",
+                "other"
+            ]
+        }
+    }
+]

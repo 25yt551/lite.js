@@ -1,0 +1,106 @@
+{
+   "alwaysDislikeBtn": {
+      "description": "Always dislike this channel button on popup",
+      "message": "Always dislike this channel"
+   },
+   "alwaysDislikeTitle": {
+      "description": "Always dislike title box configuration page",
+      "message": "Always dislike"
+   },
+   "alwaysLikeBtn": {
+      "description": "Always like this channel button on popup",
+      "message": "Always like this channel"
+   },
+   "alwaysLikeTitle": {
+      "description": "Always like title box configuration page",
+      "message": "Always like"
+   },
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Automatically like or dislike videos from selected channels."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Your Auto Liker"
+   },
+   "appShortName": {
+      "description": "The short title of the application, displayed in the web store.",
+      "message": "Your Liker"
+   },
+   "configurations": {
+      "description": "Configurations strings displayed on page title and menu",
+      "message": "Configurations"
+   },
+   "configureExtension": {
+      "description": "Configure extension button on popup",
+      "message": "Configure extension"
+   },
+   "howToUseLinkMenu": {
+      "description": "How to use the extension link on the configuration page menu",
+      "message": "How to use"
+   },
+   "moreAboutLinkMenu": {
+      "description": "More about the extension link on the configuration page menu",
+      "message": "More about"
+   },
+   "noChanges": {
+      "description": "No changes button configuration page",
+      "message": "No changes"
+   },
+   "noChangesTitle": {
+      "description": "No changes title box configuration page",
+      "message": "No changes to be saved"
+   },
+   "reactAfterWatchingTitle": {
+      "description": "React after watchin XX% title box configuration page",
+      "message": "React after watching"
+   },
+   "reactingIn": {
+      "description": "Reacting in xx% of the video message on popup",
+      "message": "Reacting in $1% of the video"
+   },
+   "reloadNeededWarning": {
+      "description": "Warning message informing about the need of reloading page after changes on the configuration page",
+      "message": "Attention: reloading pages with the extension might be needed to apply changes"
+   },
+   "reviewExtension": {
+      "description": "Message to ask for review at Chrome web Store",
+      "message": " \u003Ca href='https://chrome.google.com/webstore/detail/your-auto-liker/akbbabbhifekchhpijcbmicndgbeahoi/reviews' target='_blank' title='Review the extension'>Review the extension\u003C/a> on Chrome Web Store"
+   },
+   "saveChanges": {
+      "description": "Save changes button configuratin page",
+      "message": "Save changes"
+   },
+   "saveChangesTitle": {
+      "description": "Save changes title box cofiguration page",
+      "message": "Changes need to be saved"
+   },
+   "stopAlwaysDislikeBtn": {
+      "description": "Stop always disliking this channel button on popup",
+      "message": "Stop always disliking this channel"
+   },
+   "stopAlwaysLikeBtn": {
+      "description": "Stop always liking this channel button on popup",
+      "message": "Stop always liking this channel"
+   },
+   "subscribe": {
+      "description": "Subscription link on popup",
+      "message": "Subscribe"
+   },
+   "subscribed": {
+      "description": "Subscribed link on popup",
+      "message": "Subscribed"
+   },
+   "suggestionsMsg": {
+      "description": "Message to ask for suggestion and inform email",
+      "message": "Send suggestions and bugs to \u003Ca href='mailto:yourautoliker@gmail.com'>yourautoliker@gmail.com\u003C/a> or on Chrome Web Store \u003Ca href='https://chrome.google.com/webstore/detail/your-auto-liker/akbbabbhifekchhpijcbmicndgbeahoi/support' target='_blank' title='Send suggestions or bugs on support page'>support page\u003C/a>"
+   },
+   "support": {
+      "description": "Support the extension link on popup",
+      "message": "Support the extension"
+   },
+   "supportLinkMenu": {
+      "description": "Support the extension link on the configuration page menu",
+      "message": "Support"
+   }
+}

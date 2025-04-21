@@ -1,0 +1,54 @@
+body {
+  background-color: black; /* Fondo principal */
+  color: #ffffff; /* Color del texto */
+  min-width: 400px;
+  font-family: 'Arial', sans-serif; /* Tipo de letra */
+  margin: 0; /* Elimina el margen predeterminado del cuerpo */
+}
+
+h1 {
+  text-align: center;
+  color: #66ffcc; /* Color del título más cercano al cian */
+  margin-bottom: 20px; /* Espaciado inferior */
+}
+
+a {
+  color: #66ffcc; /* Color de los enlaces en verde cian */
+  text-decoration: none; /* Elimina el subrayado predeterminado */
+  font-weight: bold; /* Hace que los enlaces sean más destacados */
+}
+
+a:hover {
+  color: #00cccc; /* Cambia a un cian más fuerte al pasar el ratón sobre los enlaces */
+}
+
+main {
+  padding: 20px; /* Añade espacio alrededor del contenido principal */
+}
+
+ul {
+  padding: 0.2; /* Elimina el relleno predeterminado de la lista */
+}
+
+li {
+  margin-bottom: 5px; /* Espaciado inferior entre elementos de la lista */
+}
+
+footer {
+  background-color: #333; /* Fondo del pie de página */
+  padding: 20px 0; /* Espaciado interno */
+  text-align: center;
+  color: #a0a0a0; /* Color del texto del pie de página */
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px; /* Espacio entre el logo y el texto */
+}
+
+.logo {
+  max-width: 200px; /* Ajusta el tamaño del logo según sea necesario */
+  height: auto;
+}
